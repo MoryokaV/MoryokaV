@@ -2,7 +2,7 @@
 
 **`Software architect (Developer/Computers craftsman/Automotive enthusiast)`**
 
-I'm an indie full-stack developer, trying to come with the best digital solutions for my community. All of my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Learning new technologies is really enjoyable for me, as well as working on Android/iOS related projects. 
+I'm an indie full-stack developer, trying to come up with the best digital solutions for my community. All of my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Learning new technologies is really enjoyable for me, as well as working on Android/iOS related projects. 
 
 ### 🧰 Languages and Tools
 
